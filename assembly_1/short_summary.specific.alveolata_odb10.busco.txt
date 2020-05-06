@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.6 
+# The lineage dataset is: alveolata_odb10 (Creation date: 2019-11-21, number of species: 65, number of BUSCOs: 171)
+# Summarized benchmarking in BUSCO notation for file contigs.fasta
+# BUSCO was run in mode: genome
+
+	***** Results: *****
+
+	C:48.6%[S:43.9%,D:4.7%],F:18.1%,M:33.3%,n:171	   
+	83	Complete BUSCOs (C)			   
+	75	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	31	Fragmented BUSCOs (F)			   
+	57	Missing BUSCOs (M)			   
+	171	Total BUSCO groups searched		   
