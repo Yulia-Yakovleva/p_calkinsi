@@ -1,1 +1,3 @@
+augustus --species=tetrahymena assembly_1/contigs.fasta --gff3=on --progress=true > augustus.gff
 
+getAnnoFasta.pl --seqfile assembly_1/contigs.fasta augustus.gff
