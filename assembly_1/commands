@@ -1,0 +1,3 @@
+busco -i contigs.fasta -l alveolata_odb10 -m genome --config config.ini --out busco
+
+http://kaiju.binf.ku.dk/results/128745-1098206253
